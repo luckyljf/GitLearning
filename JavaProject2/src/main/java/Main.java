@@ -9,5 +9,7 @@ public class Main {
         System.out.println("project2");
 
         System.out.println("dev_2");
+
+        System.out.println("dev_2 JavaProject2");
     }
 }
