@@ -10,5 +10,7 @@ public class Main {
 
         // 在项目Project1 分支dev中添加---
         System.out.println("dev");
+
+        System.out.println("dev JavaProject1");
     }
 }
