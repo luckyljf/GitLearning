@@ -10,5 +10,7 @@ public class Dev {
 
         System.out.println("JavaProject3");
 
+        System.out.println("JavaProject3");
+
     }
 }
