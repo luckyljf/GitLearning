@@ -10,5 +10,7 @@ public class EditionCommit {
         System.out.println("AAA");
 
         System.out.println("BBB");
+
+        System.out.println("CCC");
     }
 }
